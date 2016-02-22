@@ -1,0 +1,9 @@
+.org 0x0000000101
+JMP "0x0000000400"
+
+loop1:
+	JMP "loop1"
+	.align 2
+.wfill 1 2147483647
+loop2:
+	JMP "0x0000000400"

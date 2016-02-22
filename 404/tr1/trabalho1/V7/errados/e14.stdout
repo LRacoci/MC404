@@ -1,0 +1,17 @@
+[0;92mComeçando Primeira Montagem
+pos: 000e; 1[1]: ADD
+[0;97m [0;94m[\n(1)]
+[0;94m[\n(1)]
+pos: 000d; 2[1]: loop:
+[0;94m(01) [0;93mloop[0;96m(L)[0;97m "[0;99m000[d][0;97m"
+
+[0;94m[\n(1)]
+pos: 000d; 3[1]: loop:
+[0;92mTerminada primeira montagem
+[0;94m(01) [0;93mloop[0;96m(L)[0;97m "[0;99m000[d][0;97m"
+000 05 000 00 000
+
+[0;92mComeçando Segunda Montagem
+
+[0;92mSaída do programa
+[0;92mLiberando Memória
